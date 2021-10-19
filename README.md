@@ -4,7 +4,7 @@
 	🗺️  <a href="https://docs.google.com/document/d/1prG_QRtDRSWSY_HEpdUNAQpTHxcBVIycakdxhw4ANs0/edit?usp=sharing">Documentação de apoio</a>   🗺️
 </h4><br>
 
-Repositório de estudos sobre criação de databases utilizando o [DBMS]('https://www.oracle.com/br/database/what-is-database/#:~:text=Um%20banco%20de%20dados%20%C3%A9,banco%20de%20dados%20(DBMS).') Mysql e NodeJS. 
+Repositório de estudos sobre criação de CRUDs  utilizando o [DBMS]('https://www.oracle.com/br/database/what-is-database/#:~:text=Um%20banco%20de%20dados%20%C3%A9,banco%20de%20dados%20(DBMS).') Mysql e NodeJS. 
 
 #### Versão da Runtime Node e Banco de dados:
 ```Dependências:
