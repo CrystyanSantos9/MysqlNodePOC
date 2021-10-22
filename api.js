@@ -9,10 +9,11 @@ const test  = async() => {
     // const listCategories = await categories.findAll()
 //    await products.addImage(6, ['Imagem Aparelho som', 'https://repository.ce/img'])
 // const prods = await products.findAll()
-// const prods = await products.findAllByCategory(4)
+const prods = await products.findAllByCategory(4)
+console.table(prods)
 // const prods = await products.findAllPaginated({pageSize : 2, currentPage : 5 });
 
-const prods = await products.updateCategories(3, [6,6])
+// const prods = await products.updateCategories(3, [6,6])
 // for(let i=0; i<1000; i++){
 //     products.findAllPaginated().then(
 //         prods=> console.log(prods)
